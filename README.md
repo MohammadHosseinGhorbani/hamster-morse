@@ -3,7 +3,7 @@ A program that automatically clicks the Morse code you want and is made to recei
 
 Use an Android emulator to open Hamster Kombat game, enter the Daily Cipher mode, and run the program. It'll do the morse code after 5 seconds.
 
-**Make sure to put the cursor on the coin after running the code while waiting 5 seconds.**
+**Make sure to put the cursor on the coin after running the code while waiting for the 5 seconds.**
 
 ## Anyway, How to run?
 ### From the binary EXE
