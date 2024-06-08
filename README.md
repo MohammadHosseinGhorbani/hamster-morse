@@ -28,6 +28,10 @@ Then open the project folder
 ```cmd
 cd hamster-morse
 ```
+Install the required packages
+```cmd
+pip install -r requirements.txt
+```
 Finally, run it using python
 ```cmd
 python hamster_morse.py [THE_DAILY_WORD]
